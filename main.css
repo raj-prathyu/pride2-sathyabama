@@ -1,0 +1,36 @@
+#header{
+
+    text-align: center;
+    padding: 5px;
+    background-color: aqua;
+    color: aliceblue;
+}
+
+#form{
+    position: absolute;
+    left: 32%;
+    top: 20%;
+    
+}
+
+input,select{
+    width: 400px;
+    height: 30px;
+}
+
+button{
+    width: 255px;
+}
+table,td,tr{
+    padding: 5px;
+}
+
+#store{
+    position: absolute;
+     top: 90%;
+    left: 32%;
+}
+
+#three{
+    width: 410px;
+}
